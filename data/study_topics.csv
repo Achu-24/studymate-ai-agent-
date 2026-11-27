@@ -1,0 +1,22 @@
+
+subject,topic,difficulty,estimated_hours
+DAA,Greedy Algorithms,Medium,3
+DAA,Dynamic Programming,Hard,5
+DAA,Divide and Conquer,Medium,3
+DAA,Graph Algorithms,Hard,4
+DAA,Backtracking,Medium,3
+COA,Cache Memory,Medium,2
+COA,Memory Hierarchy,Medium,2
+COA,Instruction Pipelining,Hard,4
+COA,CPU Architecture,Hard,3
+Automata,Finite Automata,Easy,2
+Automata,Context Free Grammar,Medium,3
+Automata,Pushdown Automata,Hard,4
+Automata,Turing Machines,Hard,4
+Python,Functions and Modules,Easy,2
+Python,File Handling,Easy,2
+Python,OOP Concepts,Medium,3
+Python,Exception Handling,Easy,2
+AI,Machine Learning Basics,Medium,4
+AI,Neural Networks,Hard,5
+AI,Retrieval Augmented Generation,Hard,4
